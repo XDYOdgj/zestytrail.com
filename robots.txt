@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zestytrail.com/sitemap.xml
